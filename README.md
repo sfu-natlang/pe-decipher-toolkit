@@ -4,9 +4,7 @@ Companion Python notebook for Born et al. (forthcoming) [1]. Applies basic NLP t
 
 Try the interactive version on Binder:
 
-<center>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sfu-natlang/pe-decipher-toolkit/master)
-</center>
 
 ...or check out a static version [on nbviewer](https://nbviewer.jupyter.org/github/sfu-natlang/pe-decipher-toolkit/blob/master/A%20Guided%20Tour%20of%20Proto-Elamite.ipynb) (some figures will only display correctly on the Binder version).
 
