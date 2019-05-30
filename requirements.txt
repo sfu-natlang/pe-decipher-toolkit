@@ -6,3 +6,4 @@ jupyter
 sklearn
 hmmlearn
 Pillow
+gensim
