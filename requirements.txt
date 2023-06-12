@@ -3,7 +3,7 @@ scipy
 matplotlib
 pandas
 jupyter
-sklearn
+scikit-learn
 hmmlearn
 Pillow
 gensim
